@@ -1,0 +1,4 @@
+/build/*.o
+/.vs
+/*.opendb
+/trace-*
